@@ -70,7 +70,39 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
-Disk Structure Analysis Results
+<img width="322" height="94" alt="Screenshot 2026-05-19 134255" src="https://github.com/user-attachments/assets/27690542-b18f-4878-bd45-836f872eec41" />
+
+
+
+`
+
+
+
+<img width="515" height="95" alt="Screenshot 2026-05-19 134300" src="https://github.com/user-attachments/assets/fea5d9c1-5f11-45c5-9ad4-8a69489be385" />
+
+
+
+`
+
+
+
+
+
+<img width="272" height="68" alt="Screenshot 2026-05-19 134307" src="https://github.com/user-attachments/assets/5876cffe-b2e8-4482-b50b-3d78a148eda4" />
+
+
+
+
+`
+
+
+
+
+
+
+
+
+<img width="280" height="115" alt="Screenshot 2026-05-19 134312" src="https://github.com/user-attachments/assets/2874b95b-af34-49d9-afe3-733b38049a5c" />
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
